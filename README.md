@@ -31,8 +31,8 @@
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 
 ## Diffusion
-- [How Diffusion Models Work](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
 - [Introduction to Image Generation](https://www.cloudskillsboost.google/paths/183/course_templates/541?utm_source=cgc&utm_medium=blog&utm_campaign=giftoflearning2023)
+- [How Diffusion Models Work](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
