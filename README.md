@@ -50,3 +50,15 @@
 - [RLAIF](https://arxiv.org/abs/2309.00267)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+
+# Other Useful Resources
+- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [AI Collection](https://github.com/ai-collection/ai-collection)
+- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [Awesome Generative AI ](https://github.com/filipecalegario/awesome-generative-ai)
+- [LLM for autonomous driving](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
+- [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
