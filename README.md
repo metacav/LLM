@@ -1,6 +1,4 @@
 # Quick Start and Basic Concept ( Please skip the code)
-- [LangChain Cookbook Part 1](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
-- [LangChain Cookbook Part 2](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
 - [Mistral Cookbook](https://github.com/mistralai/cookbook)
 - [1hr Talk Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [OpenAi API Reference](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
