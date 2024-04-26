@@ -40,7 +40,8 @@
 - [Large Language Models, Part I](https://www.youtube.com/watch?v=2yjzZfDQxy8)
 - [Large Language Models, Part II](https://www.youtube.com/watch?v=mxERaO8FXHc)
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
-
+- [Stanford CS25](https://web.stanford.edu/class/cs25/)
+  
 # Papers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [SFT](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
@@ -48,7 +49,20 @@
 - [RLAIF](https://arxiv.org/abs/2309.00267)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
-
+  
+# SnowFlake Arctic
+- [SnowFlake Artic Github] (https://github.com/Snowflake-Labs/snowflake-arctic)
+## Reference
+- [MOE review](https://huggingface.co/blog/moe)
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed/)
+- [Zero-2](https://arxiv.org/abs/1910.02054)
+- [MOE](https://arxiv.org/pdf/1701.06538)
+- [Deep Speed MOE](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961)
+- [GlaM](https://arxiv.org/abs/2112.06905)
+- [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
+- [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://arxiv.org/pdf/2305.14705)
+- 
 # Other Useful Resources
 - [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
