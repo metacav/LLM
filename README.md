@@ -46,7 +46,10 @@
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [SFT](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
 - [RLHF](https://arxiv.org/pdf/2203.02155)
+- [DPO](https://arxiv.org/pdf/2305.18290)
 - [RLAIF](https://arxiv.org/abs/2309.00267)
+- [LoRA](https://arxiv.org/pdf/2106.09685)
+- [QLoRA](https://arxiv.org/pdf/2305.14314)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
   
