@@ -65,7 +65,8 @@
 - [GlaM](https://arxiv.org/abs/2112.06905)
 - [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
 - [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://arxiv.org/pdf/2305.14705)
-- 
+- [AdamW](https://paperswithcode.com/method/adamw)
+  
 # Other Useful Resources
 - [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
