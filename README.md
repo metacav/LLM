@@ -29,7 +29,7 @@
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
 
 ## Quantilization
-[Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
+- [Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
 
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
