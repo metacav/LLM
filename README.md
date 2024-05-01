@@ -25,13 +25,15 @@
 - [Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
 - [parameter-efficient-fine-tuning](https://medium.com/@abonia/llm-series-parameter-efficient-fine-tuning-e9839fae44ac)
 - [PEFT](https://arxiv.org/pdf/2312.12148)
-- [SFT Examples with QLoRA](https://medium.com/@shitalnandre108/fine-tuning-llama-2-large-language-model-with-custom-datasets-using-google-colab-a-comprehensive-a9d68faf3bc9)  
+- [SFT Examples with QLoRA](https://medium.com/@shitalnandre108/fine-tuning-llama-2-large-language-model-with-custom-datasets-using-google-colab-a-comprehensive-a9d68faf3bc9)
+  
 ## RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
 
 ## Quantilization
 - [Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
-
+- [Quantization Survey](https://arxiv.org/pdf/2103.13630)
+  
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 
