@@ -58,7 +58,10 @@
 # Open Source Model Review
 ## Llama
 - [Llama 2 Paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
-  
+
+## GPT
+- [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
 ## SnowFlake Arctic
 - [SnowFlake Artic Github] (https://github.com/Snowflake-Labs/snowflake-arctic)
 ## Reference
