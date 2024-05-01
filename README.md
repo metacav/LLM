@@ -23,9 +23,13 @@
 - [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 - [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/1/introduction)
 - [Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
+- [parameter-efficient-fine-tuning](https://medium.com/@abonia/llm-series-parameter-efficient-fine-tuning-e9839fae44ac)
 
 ## RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
+
+## Quantilization
+[Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
 
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
