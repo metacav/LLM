@@ -24,7 +24,8 @@
 - [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/1/introduction)
 - [Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
 - [parameter-efficient-fine-tuning](https://medium.com/@abonia/llm-series-parameter-efficient-fine-tuning-e9839fae44ac)
-
+- [PEFT](https://arxiv.org/pdf/2312.12148)
+  
 ## RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
 
@@ -68,6 +69,7 @@
 
 ## SnowFlake Arctic
 - [SnowFlake Artic Github] (https://github.com/Snowflake-Labs/snowflake-arctic)
+  
 ## Reference
 - [MOE review](https://huggingface.co/blog/moe)
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed/)
