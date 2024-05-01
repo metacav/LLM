@@ -55,7 +55,11 @@
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
   
-# SnowFlake Arctic
+# Open Source Model Review
+## Llama
+- [Llama 2 Paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+  
+## SnowFlake Arctic
 - [SnowFlake Artic Github] (https://github.com/Snowflake-Labs/snowflake-arctic)
 ## Reference
 - [MOE review](https://huggingface.co/blog/moe)
