@@ -4,6 +4,7 @@
 - [OpenAi API Reference](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
 - [RAG From Scratch](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 - [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://www.youtube.com/watch?v=sal78ACtGTc)
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/perf_train_gpu_one#mixture-of-experts)
 
 # Short Tutorials
 ## Promopt Engineering
