@@ -96,3 +96,12 @@
 - [LLM for autonomous driving](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
 - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+
+# Popular Github
+- [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [Auto/gen](https://microsoft.github.io/autogen/)
+- [MetaGPT](https://github.com/geekan/MetaGPT)
+- [MeMGPT](https://memgpt.readme.io/docs/index)
+- [Open Devin](https://github.com/OpenDevin/OpenDevin)
+- [Devika](https://github.com/stitionai/devika)
+- 
