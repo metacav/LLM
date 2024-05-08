@@ -98,6 +98,7 @@
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
 
 # Popular Github
+- [DsPy](https://github.com/stanfordnlp/dspy)
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
 - [Auto/gen](https://microsoft.github.io/autogen/)
 - [MetaGPT](https://github.com/geekan/MetaGPT)
