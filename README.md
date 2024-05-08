@@ -104,4 +104,5 @@
 - [MeMGPT](https://memgpt.readme.io/docs/index)
 - [Open Devin](https://github.com/OpenDevin/OpenDevin)
 - [Devika](https://github.com/stitionai/devika)
+- [AIOS](https://github.com/agiresearch/AIOS)
 - 
