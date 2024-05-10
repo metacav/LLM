@@ -34,7 +34,10 @@
 ## Quantilization
 - [Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
 - [Quantization Survey](https://arxiv.org/pdf/2103.13630)
-  
+
+## Architecture
+- [Architectures fofr LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
+
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 
