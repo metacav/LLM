@@ -112,3 +112,5 @@
 - [Devika](https://github.com/stitionai/devika)
 - [AIOS](https://github.com/agiresearch/AIOS)
 - [Agent OPS](https://github.com/AgentOps-AI/agentops)
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+- [DeepSeek](https://www.deepseek.com)
