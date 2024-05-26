@@ -116,6 +116,3 @@
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [DeepSeek](https://www.deepseek.com)
 
-# bakcup
-https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=50333fe14d97
-https://www.youtube.com/watch?v=RLwyXRVvlNk
