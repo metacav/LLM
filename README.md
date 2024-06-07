@@ -29,7 +29,9 @@
 - [parameter-efficient-fine-tuning](https://medium.com/@abonia/llm-series-parameter-efficient-fine-tuning-e9839fae44ac)
 - [PEFT](https://arxiv.org/pdf/2312.12148)
 - [SFT Examples with QLoRA](https://medium.com/@shitalnandre108/fine-tuning-llama-2-large-language-model-with-custom-datasets-using-google-colab-a-comprehensive-a9d68faf3bc9)
-  
+- [Predibase: Efficiently Server Multiple LoRA Land Adapter.ipynb](https://colab.research.google.com/drive/1twBQZ_9PfoWhCGYL8QQEx_rmcvmTDOOA?usp=sharing#scrollTo=6qP9g-shUqzy)
+- [Finetune examples](https://colab.research.google.com/drive/1rxg7fJfGYZUgG7QPa3EavXzoyY5QPE9U?usp=sharing)
+
 ## RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
 
@@ -57,7 +59,8 @@
 - [Large Language Models, Part II](https://www.youtube.com/watch?v=mxERaO8FXHc)
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [Stanford CS25](https://web.stanford.edu/class/cs25/)
-- [LLM Course](https://github.com/mlabonne/llm-course)  
+- [LLM Course](https://github.com/mlabonne/llm-course)
+  
 # Papers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [SFT](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
@@ -72,9 +75,7 @@
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [ReFT](https://arxiv.org/pdf/2404.03592)
-- [Parameter-Efficient Fine-Tuning Methods for
-Pretrained Language Models: A Critical
-Review and Assessment](https://arxiv.org/pdf/2312.12148)
+- [Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment](https://arxiv.org/pdf/2312.12148)
 
 # Open Source Model Review
 ## Llama
