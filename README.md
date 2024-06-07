@@ -72,6 +72,9 @@
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [ReFT](https://arxiv.org/pdf/2404.03592)
+- [Parameter-Efficient Fine-Tuning Methods for
+Pretrained Language Models: A Critical
+Review and Assessment](https://arxiv.org/pdf/2312.12148)
 
 # Open Source Model Review
 ## Llama
