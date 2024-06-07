@@ -31,6 +31,7 @@
 - [SFT Examples with QLoRA](https://medium.com/@shitalnandre108/fine-tuning-llama-2-large-language-model-with-custom-datasets-using-google-colab-a-comprehensive-a9d68faf3bc9)
 - [Predibase: Efficiently Server Multiple LoRA Land Adapter.ipynb](https://colab.research.google.com/drive/1twBQZ_9PfoWhCGYL8QQEx_rmcvmTDOOA?usp=sharing#scrollTo=6qP9g-shUqzy)
 - [Finetune examples](https://colab.research.google.com/drive/1rxg7fJfGYZUgG7QPa3EavXzoyY5QPE9U?usp=sharing)
+- [Lora Land](https://predibase.com/lora-land)
 
 ## RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
