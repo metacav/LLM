@@ -70,7 +70,8 @@
 - [QLoRA](https://arxiv.org/pdf/2305.14314)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
-  
+- [ReFT](https://arxiv.org/pdf/2404.03592)
+
 # Open Source Model Review
 ## Llama
 - [Llama 2 Paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
