@@ -9,7 +9,8 @@
 # Short Tutorials
 ## Promopt Engineering
 - [Promopt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
-
+- [GenAI Handbook](https://genai-handbook.github.io)
+  
 ## RAG
 - [RAG From Scratch](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 - [Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction)
