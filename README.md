@@ -63,6 +63,7 @@
 - [SFT](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
 - [RLHF](https://arxiv.org/pdf/2203.02155)
 - [DPO](https://arxiv.org/pdf/2305.18290)
+- [ORPO](https://arxiv.org/abs/2403.07691)
 - [RLAIF](https://arxiv.org/abs/2309.00267)
 - [LoRA Paper](https://arxiv.org/pdf/2106.09685)
 - [LoRA YouTube](https://www.youtube.com/watch?v=PXWYUTMt-AU)
