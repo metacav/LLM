@@ -117,4 +117,5 @@
 - [Agent OPS](https://github.com/AgentOps-AI/agentops)
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [DeepSeek](https://www.deepseek.com)
-
+- [GPT Computer Assistant](https://github.com/onuratakan/gpt-computer-assistant?tab=readme-ov-file)
+- [LitGPT](https://github.com/Lightning-AI/litgpt)
