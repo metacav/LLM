@@ -1,6 +1,7 @@
 # Quick Start and Basic Concept ( Please skip the code)
 - [Mistral Cookbook](https://github.com/mistralai/cookbook)
 - [1hr Talk Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
 - [OpenAi API Reference](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
 - [RAG From Scratch](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 - [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://www.youtube.com/watch?v=sal78ACtGTc)
