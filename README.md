@@ -41,15 +41,16 @@
 - [Finetune examples](https://colab.research.google.com/drive/1rxg7fJfGYZUgG7QPa3EavXzoyY5QPE9U?usp=sharing)
 - [Lora Land](https://predibase.com/lora-land)
 
-## RLHF
+### RLHF
 - [Reinforcement Learning From Human Feedback](https://learn.deeplearning.ai/courses/reinforcement-learning-from-human-feedback/lesson/1/introduction)
 
-## Quantilization
+## Deployment
+### Quantilization
 - [Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
 - [Quantization Survey](https://arxiv.org/pdf/2103.13630)
 
-## Ops Architecture
-- [Architectures fofr LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
+### LLMOps Architecture
+- [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [E2E Framework](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
   
 ## Agent
