@@ -26,6 +26,11 @@
 - [Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/courses/google-cloud-vertex-ai/lesson/1/introduction)
 
 ## Finetuning
+### Data Preparation
+- [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+- [LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report](https://arxiv.org/abs/2405.00732)
+  
+### Parameter Efficient Fine Tuning
 - [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 - [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/1/introduction)
 - [Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
