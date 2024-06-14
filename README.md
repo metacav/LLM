@@ -15,6 +15,9 @@
 - [GenAI Handbook](https://genai-handbook.github.io)
 - [LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Prompt Survey](https://trigaten.github.io/Prompt_Survey_Site/)
+- [Memory of Thought](https://arxiv.org/pdf/2305.05181)
+- [Chain of Thought](https://arxiv.org/abs/2201.11903)
+- 
 ## RAG
 - [RAG From Scratch](https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 - [Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction)
