@@ -7,6 +7,7 @@
 - [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://www.youtube.com/watch?v=sal78ACtGTc)
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/perf_train_gpu_one#mixture-of-experts)
 - [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org)
+- [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
 
 
 # Short Tutorials
