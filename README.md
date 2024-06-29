@@ -13,6 +13,7 @@
 # Short Tutorials
 ## Dataset
 - [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+- [HellaSwag](https://rowanzellers.com/hellaswag/)
   
 ## Promopt Engineering
 - [Promopt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
