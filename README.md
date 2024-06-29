@@ -11,6 +11,9 @@
 
 
 # Short Tutorials
+## Dataset
+- [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+  
 ## Promopt Engineering
 - [Promopt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
 - [GenAI Handbook](https://genai-handbook.github.io)
