@@ -72,7 +72,7 @@
 - [How Diffusion Models Work](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
 
 ## Multimodal
--[Multimodal Algorithmic Reasoning Workshop](https://www.youtube.com/watch?v=LooLbLs3O_Y)
+- [Multimodal Algorithmic Reasoning Workshop](https://www.youtube.com/watch?v=LooLbLs3O_Y)
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
