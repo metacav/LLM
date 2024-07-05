@@ -61,6 +61,8 @@
 - [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [E2E Framework](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
 - [ML ops](https://github.com/visenger/awesome-mlops)
+### Platform
+- [DIFY](https://github.com/langgenius/dify)
   
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
