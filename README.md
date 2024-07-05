@@ -60,7 +60,8 @@
 ### LLMOps Architecture
 - [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [E2E Framework](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
-- [ML ops](https://github.com/visenger/awesome-mlops)  
+- [ML ops](https://github.com/visenger/awesome-mlops)
+  
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 - [LLM Agent](https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792)
@@ -69,6 +70,9 @@
 ## Diffusion
 - [Introduction to Image Generation](https://www.cloudskillsboost.google/paths/183/course_templates/541?utm_source=cgc&utm_medium=blog&utm_campaign=giftoflearning2023)
 - [How Diffusion Models Work](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
+
+## Multimodal
+-[Multimodal Algorithmic Reasoning Workshop](https://www.youtube.com/watch?v=LooLbLs3O_Y)
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
