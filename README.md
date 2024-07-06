@@ -75,6 +75,7 @@
 
 ## Multimodal
 - [Multimodal Algorithmic Reasoning Workshop](https://www.youtube.com/watch?v=LooLbLs3O_Y)
+- [LLAVA](https://chunyuan.li)
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
