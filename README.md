@@ -39,6 +39,10 @@
 - [LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report](https://arxiv.org/abs/2405.00732)
   
 ### Parameter Efficient Fine Tuning
+- [P-Tuning](https://aclanthology.org/2022.acl-short.8.pdf)
+- [P-Tuning v2](https://arxiv.org/abs/2110.07602)
+- [LoRA](https://arxiv.org/pdf/2106.09685)
+- [IA3](https://arxiv.org/pdf/2205.05638)
 - [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 - [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/1/introduction)
 - [Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
@@ -56,6 +60,7 @@
 ### Quantilization
 - [Quantization Overview](https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd)
 - [Quantization Survey](https://arxiv.org/pdf/2103.13630)
+- [QAT & PTQ](https://iprathore71.medium.com/diving-deeper-into-quantization-realm-9c73e3172a3c)
 
 ### LLMOps Architecture
 - [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
