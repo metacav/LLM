@@ -92,6 +92,7 @@
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [Stanford CS25](https://web.stanford.edu/class/cs25/)
 - [LLM Course](https://github.com/mlabonne/llm-course)
+- [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)
   
 # Papers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
