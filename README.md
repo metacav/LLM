@@ -161,4 +161,5 @@
 - [GPT Computer Assistant](https://github.com/onuratakan/gpt-computer-assistant?tab=readme-ov-file)
 - [LitGPT](https://github.com/Lightning-AI/litgpt)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
-- [AI tools](https://huyenchip.com/llama-police)- 
+- [AI tools](https://huyenchip.com/llama-police)
+- [Contrastive Learning](https://github.com/KingGugu/DA-CL-4Rec)
