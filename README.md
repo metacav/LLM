@@ -147,6 +147,7 @@
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
 
 # Popular Github
+- [RD Agent](https://github.com/microsoft/RD-Agent)
 - [DsPy](https://github.com/stanfordnlp/dspy)
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
 - [Auto/gen](https://microsoft.github.io/autogen/)
