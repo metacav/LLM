@@ -75,6 +75,7 @@
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 - [LLM Agent](https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/))
 
 ## Diffusion
 - [Introduction to Image Generation](https://www.cloudskillsboost.google/paths/183/course_templates/541?utm_source=cgc&utm_medium=blog&utm_campaign=giftoflearning2023)
