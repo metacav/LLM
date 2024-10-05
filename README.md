@@ -14,6 +14,8 @@
 ## Dataset
 - [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [HellaSwag](https://rowanzellers.com/hellaswag/)
+- [💾 LLM Datasets](https://github.com/mlabonne/llm-datasets)
+- 
   
 ## Promopt Engineering
 - [Promopt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
@@ -66,6 +68,7 @@
 - [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [E2E Framework](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
 - [ML ops](https://github.com/visenger/awesome-mlops)
+  
 ### Orchestration Tools
 - [DIFY](https://github.com/langgenius/dify)
 - [LangChain](https://www.langchain.com)
@@ -84,6 +87,12 @@
 ## Multimodal
 - [Multimodal Algorithmic Reasoning Workshop](https://www.youtube.com/watch?v=LooLbLs3O_Y)
 - [LLAVA](https://chunyuan.li)
+- 
+## Hallucination Detection
+- [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection?tab=readme-ov-file#measuring-hallucinations-in-llms)
+- 
+
+
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
@@ -94,6 +103,12 @@
 - [Stanford CS25](https://web.stanford.edu/class/cs25/)
 - [LLM Course](https://github.com/mlabonne/llm-course)
 - [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)
+- [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+- 
+
+
   
 # Papers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
@@ -166,3 +181,5 @@
 - [AI tools](https://huyenchip.com/llama-police)
 - [Contrastive Learning](https://github.com/KingGugu/DA-CL-4Rec)
 - [Lil Log](https://lilianweng.github.io/)
+- [O1 Engineer](https://github.com/Doriandarko/o1-engineer)
+- [LLM Course] (https://github.com/mlabonne/llm-course)
