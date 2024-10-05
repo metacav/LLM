@@ -183,3 +183,9 @@
 - [Lil Log](https://lilianweng.github.io/)
 - [O1 Engineer](https://github.com/Doriandarko/o1-engineer)
 - [LLM Course] (https://github.com/mlabonne/llm-course)
+- [Awesome LLM Reasoning] (https://github.com/atfortes/Awesome-LLM-Reasoning)
+- [🗣️ Large Language Model Course](https://github.com/mlabonne/llm-course)
+
+
+
+
