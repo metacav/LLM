@@ -165,3 +165,4 @@
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [AI tools](https://huyenchip.com/llama-police)
 - [Contrastive Learning](https://github.com/KingGugu/DA-CL-4Rec)
+- [Lil Log](https://lilianweng.github.io/)
