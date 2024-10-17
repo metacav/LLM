@@ -106,7 +106,7 @@
 - [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
-- 
+- [Reasoning](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
 
   
