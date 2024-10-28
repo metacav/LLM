@@ -107,6 +107,7 @@
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 - [Reasoning](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+- [LLMs-from-scratch](https://github.com/rasbt)
 
 
   
