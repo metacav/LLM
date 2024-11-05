@@ -8,6 +8,7 @@
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/perf_train_gpu_one#mixture-of-experts)
 - [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org)
 - [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
+- [GPT2 -60line of code](https://github.com/jaymody/picoGPT)
 
 
 # Short Tutorials
