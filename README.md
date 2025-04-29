@@ -69,12 +69,17 @@
 - [Architectures for LLM applications](https://a16z.com/emerging-architectures-for-llm-applications/)
 - [E2E Framework](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
 - [ML ops](https://github.com/visenger/awesome-mlops)
-  
-### Orchestration Tools
+- [Awesome-LLMOps ](https://github.com/InftyAI/Awesome-LLMOps)
+- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps#large-model-serving)
 - [DIFY](https://github.com/langgenius/dify)
 - [LangChain](https://www.langchain.com)
 - [Pydantic](https://docs.pydantic.dev/latest/why/)
-  
+- [Agenta](https://github.com/agenta-ai/agenta)
+- [LLM ops](https://github.com/KennethanCeyer/awesome-llmops)
+- [msft LMops](https://github.com/microsoft/LMOps)
+- [llmops-python](https://github.com/callmesora/llmops-python-package)
+- [LLMOps](https://github.com/Blaizzy/LLMOps)
+- [LLMOps handbook](https://llmops-handbook.distantmagic.com/general-concepts/load-balancing/index.html)
 ## Agent
 - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)
 - [LLM Agent](https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792)
@@ -93,7 +98,8 @@
 - [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection?tab=readme-ov-file#measuring-hallucinations-in-llms)
 - 
 
-
+## Security
+- [AI Security](https://github.com/msoedov/agentic_security/tree/main/agentic_security/mcp)
 
 # Comprehensive Tutorial
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
